@@ -14,6 +14,6 @@
 ![0197465ce1a1a7a801208f8b23da2e jpg@1280w_1l_2o_100sh](https://user-images.githubusercontent.com/87366329/135378263-23d6d24a-71cf-48bd-b937-226a73032bf5.jpg)
 ![0198515ce1a1b0a801214168ae706e jpg@1280w_1l_2o_100sh](https://user-images.githubusercontent.com/87366329/135378269-d12fb054-e635-44e7-ba01-a30eb700be8e.jpg)
 <br>
-<br>2.0更新提要：
+<br>寒蝉手拙体2.0更新提要：
 <br>01 更新了部分文字忽高忽低的问题。使整体视觉更加平衡。
 <br>02 重写了英文标点符号问题。
